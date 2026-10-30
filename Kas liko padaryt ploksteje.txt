@@ -1,0 +1,13 @@
+Suvedziot Maitininimus
+Surasyt ka kosk pinas daro
+Pridet testpointu osciloskopui itampoms ir t.t.
+praiilgint atstuma tarp lazeriu iki 5-6 cm
+dar karta viska nuoskeliai perziuret, padidint takeliu plotus kur imanoma
+Reikia padaryt diffrencialines poras ties time delay ir dar kur nors
+Padaryt sujungimus itampu tarp ploksciu
+
+Padaryt gerber failus ir issiust lapkricio 3 diena
+
+
+Pasidomet apie ferrite beads ir naudoti tarp ploksciu
+Naudoti daugiau nei viena gnd ir vin pinus
