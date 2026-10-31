@@ -1,4 +1,6 @@
 Suvedziot Maitininimus
+2026/10/31
+
 Surasyt ka kosk pinas daro
 Pridet testpointu osciloskopui itampoms ir t.t.
 praiilgint atstuma tarp lazeriu iki 5-6 cm
@@ -11,3 +13,18 @@ Padaryt gerber failus ir issiust lapkricio 3 diena
 
 Pasidomet apie ferrite beads ir naudoti tarp ploksciu
 Naudoti daugiau nei viena gnd ir vin pinus
+
+Pakeist PIN Fotodioda I APD fotodioda
+https://www.mouser.lt/en/ProductDetail/Marktech-Optoelectronics/MTAPD-06-007?qs=DRkmTr78QASBEV%252BsbzJ1Tg%3D%3D
+APD statesnis frontas ir statesnis kritimas, 300ps
+Reikalinga didesne itampa 130V DC
+https://www.mouser.lt/en/ProductDetail/Analog-Devices/LT8331EMSEPBF?qs=oahfZPh6IAIKOCqw%2F9bOKA%3D%3D
+
+Reikia pridet papildomu varzu po GaN ir zemes, kad lazeris nesudegtu impulso metu, srove +300mA galima 140mA max.
+
+Papildomas kondensatorius ant TIA opampo R feedback rezistoriaus lygegraciai, 0.1pf-0.3pf, jei uzsigeneruotu netycia.
+Jei bus ringinimas tai tsg padidint is 10 iki 22 omu varziuka.
+
+4 testpointai osciloskopui, jei turesiu prieeiga prie rimto osciloskopo
+Pries LMG1025 po viena ant kanalo, ir po TLV comporatoriaus po viena ant kanalo, kad pamatyt osciloskope kas dedasi.
+

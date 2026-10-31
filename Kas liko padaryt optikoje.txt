@@ -1,0 +1,10 @@
+2026/10/31
+
+Tai praktiskai viskas
+Reikia issiaiskint kokiu reikia veidrodziu
+Lazeris 450nm melyna sviesa.
+Pries ADP reikes kokios nors triubeles ir melyno 440-460nm filtro kad jis gaudytu tik ta ka lazeris saudo o ne viska is eiles
+Reikia suzinot ar paciam lazeriui nereikia jokio kalibravimo t.y. ten kazkokiu lesiu ar dar kokio stebuklo.
+Reikia issiaiskint apie remus kurie laikys
+
+Ir dar reikia pasiziuret kaip sunku padaryt kad visi begeliai judetu, judetu visi veidrodziai, bet tiksliai kiek pajudinu, ir ar imanoma motorizuot viena, ar du veidrodzius kad jie sukurtu papildoma mechanini jitteri kuri turetu susinchronizuot aktyviai fpga gyvenantis PI ar PID kontroleris

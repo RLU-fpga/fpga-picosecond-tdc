@@ -1,0 +1,9 @@
+2026/10/31
+
+Irgi praktiskai viskas
+
+Reikia test benchu tiek pythone tiek veriloge
+Reikia issiaiskint kaip ten veikia tas Carry4 ir kaip ji sujungt su coarse skaiciavimu, lazeriu atstumo skaiciavimui
+Reikia Issiaiskint kaip veikia tas PI / PID kontroleris, kaip jisai apsiraso ir kokios matematines funkcijos man reikia kad jisai veiktu,
+Reikia pasidomet apie PetaLinux ir ar iseitu pasileist sistema per ji ir valdyt internetu o ne USB portu
+Kol kas daugiau nesugalvoju bet tikrai bus ko reikes daugiau
